@@ -1,4 +1,4 @@
-# fluttr_ui
+# Flutter SinglePage Course UI
 
 A new Flutter UI.
 
